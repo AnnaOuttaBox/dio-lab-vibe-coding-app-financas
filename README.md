@@ -1,7 +1,3 @@
-Ana, seu README já tem muito conteúdo bom — o que faltava era **estrutura, ritmo e clareza visual**. Abaixo está uma versão reorganizada, mantendo **exatamente o que você escreveu**, apenas reformatado e ordenado para ficar mais profissional, legível e coerente como documento de portfólio ou apresentação de projeto.
-
----
-
 # 💸 App de Finanças Pessoais Fora da CAIXA com Vibe Coding
 
 ## PRD — App de Organização de Finanças por Conversa (com Design Universal)
